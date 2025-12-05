@@ -38,8 +38,7 @@
 
 ![Screenshot 2024-11-27 134316](https://github.com/user-attachments/assets/9a2faee6-8c58-494c-a988-4c4f88688508)
 
-### Name:D.Nitish Adavan
-### Register Number:24901049
+
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
